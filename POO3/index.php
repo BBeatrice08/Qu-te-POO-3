@@ -15,6 +15,12 @@ require_once 'ChargingStation.php';
 require_once 'LightableInterface.php';
 
 
+/*---------------------- TOUS LES COMMENTAIRES CONCERNENT LA QUETE POO 3, SEULS DES OBJETS DEJA INSTANCIES SONT CONSERVÉS 
+POUR LA QUETE 4 QUI EST DISPO EN BAS DE PAGE ;)    MERCI ---------------------------------------*/
+
+
+
+
 /* ------------ On the MotorWay ---------- */
 
 $MotorWay1 = new MotorWay();
